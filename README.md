@@ -1,1 +1,1 @@
-# SmartGreen
+# SmartGrid
